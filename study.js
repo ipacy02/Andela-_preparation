@@ -4,7 +4,8 @@
 // }
 // console.log(age1(2000))
 
-console.log("We are ready to go")
+console.log("We are ready to go and win")
+console.log("be there")
 
 // //function expression
 // const age2 = function(birthAge){
