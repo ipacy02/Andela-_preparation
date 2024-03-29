@@ -4,6 +4,8 @@
 // }
 // console.log(age1(2000))
 
+console.log("We are ready to go")
+
 // //function expression
 // const age2 = function(birthAge){
 //     return 2030 - birthAge
